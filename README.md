@@ -12,8 +12,8 @@ In short, **Inflation is an important component of developing investment strateg
 
 # CONTENTS
 In the enclosed you will find:
-   * Notebooks
+   * **Notebooks**
      * This is where the source code is stored
-   * Presentations
+   * **Presentations**
      * The Presentation & Report summarizing the findings
 
