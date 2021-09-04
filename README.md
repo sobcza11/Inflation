@@ -16,4 +16,5 @@ In the enclosed you will find:
      * This is where the source code is stored
    * **Presentations**
      * The Presentation & Report summarizing the findings
+       * <i>As the name suggests, the Presentation was prepared as a presentation; thus, I suggest that it is downloaded & perused as a PDF, not viewed on GitHub</i>
 
